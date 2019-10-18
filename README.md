@@ -1,6 +1,7 @@
 # Biometrics & Surveillance
 
 Meet every 2 weeks at meet.jit.si/pdx-privacy-biometrics
+
 Next meeting: Monday November 4th - 4pm at 
 
 ## Topics
